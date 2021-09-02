@@ -1,0 +1,36 @@
+body{
+    background: #d4e1e9 !important;
+}
+
+.form-login{
+    background: #a6c8db;
+    width: 500px;
+    height: 450px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    flex-direction: column;
+    border: 2px solid #0e74d3aa;
+}
+.login-hr{
+    border: 2px solid #0e74d3aa;
+    border-radius: 50%;
+    opacity: 50%;
+}
+.login-cabecalho{
+    padding-top: 1rem;
+    text-align: center;
+}
+.login-titulo{
+    color: #0e74d3aa;
+}
+.link-cadastrar{
+    color: #0e74d3aa;
+}
+.link-cadastrar:hover{
+    color: #2e2ec5;
+}
+
+.rodape{
+    margin-top: 50px;
+    text-align: center;
+}

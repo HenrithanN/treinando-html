@@ -1,0 +1,41 @@
+body{
+    background: #d4e1e9 !important;
+}
+
+.form-cadastro{
+    background: #a6c8db;
+    width: 500px;
+    height: 700px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    flex-direction: column;
+    border: 2px solid #0e74d3aa;
+    margin-bottom: 200px;
+}
+.cadastro-hr{
+    border: 2px solid #0e74d3aa;
+    border-top-right-radius: 100%;
+    opacity: 50%;
+    margin-bottom: 2rem;
+}
+.cadastro-cabecalho{
+    padding-top: 1rem;
+    text-align: center;
+}
+.cadastro-titulo{
+    color: #0e74d3aa;
+}
+
+.button-cadastro{
+    width: 715px !important;
+}
+
+.button-voltar{
+    width: 200px;
+    margin-left: 190px;
+}
+
+.link-button{
+    color: #ffffff;
+    text-decoration: none;
+}
